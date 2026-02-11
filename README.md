@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**BoutayaneMokhtar/BoutayaneMokhtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Boutayane Mokhtar**, a Full Stack Developer & Cybersecurity Enthusiast 🔐
 
-Here are some ideas to get you started:
+Currently pursuing my Master's in Information Systems Security while building secure, performant applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- **Languages:** JavaScript, Node.js, Java, C/C++
+- **Frontend:** HTML5, CSS3, Express.js
+- **Backend:** Node.js, Express.js
+- **Database:** PostgreSQL
+- **Tools:** Git, GitHub, VS Code
+
+### 🛡️ Focus Areas
+- Full Stack Development
+- Cybersecurity & Network Security
+- Secure Application Development
+
+### 📫 How to reach me
+- Email: boutayanemokhtari@gmail.com
+- LinkedIn: [linkedin.com/in/mokhtar-boutayane](https://linkedin.com/in/mokhtar-boutayane)
