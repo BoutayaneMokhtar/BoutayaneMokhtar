@@ -17,5 +17,5 @@ Currently pursuing my Master's in Information Systems Security while building se
 - Secure Application Development
 
 ### 📫 How to reach me
-- Email: boutayanemokhtari@gmail.com
+- Email: boutayanemokhtar1@gmail.com
 - LinkedIn: [linkedin.com/in/mokhtar-boutayane](https://linkedin.com/in/mokhtar-boutayane)
