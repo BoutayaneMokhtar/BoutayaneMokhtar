@@ -5,8 +5,8 @@ I'm **Boutayane Mokhtar**, a Full Stack Developer & Cybersecurity Enthusiast ðŸ”
 Currently pursuing my Master's in Information Systems Security while building secure, performant applications.
 
 ### ðŸ”§ Tech Stack
-- **Languages:** JavaScript, Node.js, Java, C/C++
-- **Frontend:** HTML5, CSS3, Express.js
+- **Languages:** JavaScript, TypeScript, Node.js, Java, C/C++, SQL
+- **Frontend:** React.js, HTML5, CSS3, Bootstrap
 - **Backend:** Node.js, Express.js
 - **Database:** PostgreSQL, Mongo DB
 - **Tools:** Git, GitHub, VS Code
