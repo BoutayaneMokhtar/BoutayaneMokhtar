@@ -8,7 +8,7 @@ Currently pursuing my Master's in Information Systems Security while building se
 - **Languages:** JavaScript, Node.js, Java, C/C++
 - **Frontend:** HTML5, CSS3, Express.js
 - **Backend:** Node.js, Express.js
-- **Database:** PostgreSQL
+- **Database:** PostgreSQL, Mongo DB
 - **Tools:** Git, GitHub, VS Code
 
 ### 🛡️ Focus Areas
